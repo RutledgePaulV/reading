@@ -1,0 +1,21 @@
+## Recommended Readings
+
+- The Art of Unix Programming
+- On Writing Well
+- How To Solve It
+- Designing Data Intensive Applications
+- Semantic Web For The Working Ontologist
+- Godel, Escher, Bach - The Eternal Golden Braid
+- I Am A Strange Loop
+- Confessions Of A Necromancer
+- Java Concurrency In Practice
+- The Joy Of Clojure
+- Technology Strategy Patterns
+- Let Over Lambda
+- Data Communications And Networking
+- Hackers & Painters
+- The Cathedral & The Bizarre
+- ØMQ - The Guide
+- Development & Deployment of Online Multiplayer Games Vol. 1
+- Development & Deployment of Online Multiplayer Games Vol. 2
+- Development & Deployment of Online Multiplayer Games Vol. 3
